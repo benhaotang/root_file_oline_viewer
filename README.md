@@ -1,6 +1,6 @@
 # ROOT File Online Viewer
 
-!()[demo.gif]
+![](demo.gif)
 
 View samll CERN ROOT file mobile-friendly from server or view all the hosts from one webpage.
 
